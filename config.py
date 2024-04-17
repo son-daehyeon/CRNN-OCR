@@ -16,3 +16,4 @@ training = {
     'batch_size': 32,
     'output_path': project_dir + '/output/model.pth'
 }
+
